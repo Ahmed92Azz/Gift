@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "275288043823",
+    "firebase_url": "https://gift-99e81.firebaseio.com",
+    "project_id": "gift-99e81",
+    "storage_bucket": "gift-99e81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275288043823:android:e7f82c0aa5b52b08",
+        "android_client_info": {
+          "package_name": "com.example.ahmedazz.gift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275288043823-83hkjuc92jd9vvbt335vl9l6pagksj5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8KkNfZOH7iJ0ANI-6Py-lXBIdwrTHnj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
